@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1925.66 206.08">
+    <defs>
+        <linearGradient id="linear-gradient" x1="928.35" y1="581.89" x2="927.36" y2="581.53" gradientTransform="matrix(-1925.66, 0, 0, 160.94, 1787598.82, -93483.74)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#005580"></stop>
+            <stop offset="1" stop-color="#add8ed"></stop>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="928.29" y1="583.2" x2="927.3" y2="583.24" gradientTransform="matrix(-1920.48, 0, 0, 204.06, 1782794.39, -118906.82)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#005580"></stop>
+            <stop offset="1" stop-color="#add8ed"></stop>
+        </linearGradient>
+        <linearGradient id="linear-gradient-3" x1="928.37" y1="580.67" x2="927.79" y2="580.41" gradientTransform="matrix(-1919.4, -32.63, -2.39, 140.73, 1783199.18, -51269.12)" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#005580"></stop>
+            <stop offset="1" stop-color="#add8ed"></stop>
+        </linearGradient>
+    </defs>
+    <title>footer_wave_fff</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <g id="Layer_2-2" data-name="Layer 2">
+                <g id="Layer_1-2-2" data-name="Layer 1-2">
+                    <g id="Group_501" data-name="Group 501">
+                        <path id="Path_1293" data-name="Path 1293" d="M0,175.76c226.66,24.24,511.66,2,1097-94.91s828.63,31.74,828.63,31.74l-.6,64.63s-290.09-110.46-828-41S226.52,228.43,0,175.76Z" style="fill:url(#linear-gradient)"></path>
+                        <path id="Path_1294" data-name="Path 1294" d="M1925.06,177.22c.55-3.84-309.74-115.84-991.24-94.94S0,0,0,0V175.76s196.38,75.57,933.82-20.27C1569.09,57.1,1842.66,160.57,1925.06,177.22Z" style="fill:url(#linear-gradient-2)"></path>
+                        <path id="Path_1359" data-name="Path 1359" d="M0,175.76C429.53,203,1104.12,79.69,1104.12,79.69s107.54-5.21,318.21,6.52c322.14,18.86,502.26,86.23,502.26,86.23S1657,76.62,1126.76,134.33C601.42,209.82,191.79,229.25,0,175.76Z" style="fill:url(#linear-gradient-3)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
